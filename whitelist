@@ -1,10 +1,10 @@
 WhitelistedHWIDs ={
-    {'10ed0bcb821f3517fb2db3ccedee3f527b9a6fd72f534fbd2e4fedaf71f608cf', 'w'},
-    {'6a807c2cc5330b3af45253f6b2a5bf01a9fa9512c85f51c1a4772c481a6c4ceb', 'w'},
-    {'4546960200ed20d09533cd473b845c7c5c8aec893536afb05bbd2f17672632a3', 'w'},
-    {'b7dd72e8aab3a788103e134cd53e0011e0b45b510aefd78254511037a87bb946', 'w'},
-    {'78c17478b4e0722ec13b9345a968f93e4e9cb00a5aa84e9f8e0f22d7615e36e4', 'w'},
-    {'ff51a815e9fc21659c847db1ef3b601b3e75942908f99ef7cb09592e5e5f56eb', 'w'},
+    {'a8fb70573eea8ff758d62b5a623226c32f17bf1ecead4d01db3f54511fa042ed', 'w'},
+    {'', 'w'},
+    {'', 'w'},
+    {'', 'w'},
+    {'', 'w'},
+    {'', 'w'},
 
 
 }
