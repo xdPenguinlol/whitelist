@@ -1,10 +1,3 @@
-WhitelistedHWIDs ={
+WhitelistedHWIDs = {
     {'a8fb70573eea8ff758d62b5a623226c32f17bf1ecead4d01db3f54511fa042ed', 'w'},
-    {'', 'w'},
-    {'', 'w'},
-    {'', 'w'},
-    {'', 'w'},
-    {'', 'w'},
-
-
 }
